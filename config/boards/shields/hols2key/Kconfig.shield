@@ -1,2 +1,2 @@
 config SHIELD_HOLS2KEY
-    def_bool $(shields_list_contains, hols2key)
+    def_bool $(shields_list_contains,hols2key)

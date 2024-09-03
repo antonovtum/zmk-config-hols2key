@@ -1,0 +1,8 @@
+file_format: "1"
+id: hols2key
+name: hols2key
+type: shield
+url: https://github.com/antonovtum/zmk-config-hols2key
+requires: [waveshare_rp2040_zero]
+features:
+  - keys
