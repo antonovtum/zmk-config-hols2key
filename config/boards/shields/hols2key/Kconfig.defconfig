@@ -1,0 +1,6 @@
+if SHIELD_HOLS2KEY
+
+config ZMK_KEYBOARD_NAME
+    default "hols2key"
+
+endif
