@@ -6,7 +6,7 @@
     keymap {
         compatible = "zmk,keymap";
 
-        default_kscan {
+        default_layer {
             bindings = <
                 &kp H
                 &kp J
